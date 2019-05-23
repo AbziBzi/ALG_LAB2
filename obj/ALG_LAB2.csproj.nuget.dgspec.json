@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abzibzi/MyC#P/ALG_LAB2/ALG_LAB2.csproj": {}
+  },
+  "projects": {
+    "/home/abzibzi/MyC#P/ALG_LAB2/ALG_LAB2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abzibzi/MyC#P/ALG_LAB2/ALG_LAB2.csproj",
+        "projectName": "ALG_LAB2",
+        "projectPath": "/home/abzibzi/MyC#P/ALG_LAB2/ALG_LAB2.csproj",
+        "packagesPath": "/home/abzibzi/.nuget/packages/",
+        "outputPath": "/home/abzibzi/MyC#P/ALG_LAB2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/abzibzi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/abzibzi/MyC#P/ALG_LAB2/bin/Debug/netcoreapp2.2/ALG_LAB2.deps.json
+/home/abzibzi/MyC#P/ALG_LAB2/bin/Debug/netcoreapp2.2/ALG_LAB2.runtimeconfig.json
+/home/abzibzi/MyC#P/ALG_LAB2/bin/Debug/netcoreapp2.2/ALG_LAB2.runtimeconfig.dev.json
+/home/abzibzi/MyC#P/ALG_LAB2/bin/Debug/netcoreapp2.2/ALG_LAB2.dll
+/home/abzibzi/MyC#P/ALG_LAB2/bin/Debug/netcoreapp2.2/ALG_LAB2.pdb
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.csprojAssemblyReference.cache
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.csproj.CoreCompileInputs.cache
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.AssemblyInfoInputs.cache
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.AssemblyInfo.cs
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.dll
+/home/abzibzi/MyC#P/ALG_LAB2/obj/Debug/netcoreapp2.2/ALG_LAB2.pdb
